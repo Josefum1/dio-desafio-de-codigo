@@ -1,13 +1,13 @@
-package me.dio.dio_desafio_de_codigo;
+package me.dio;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DioDesafioDeCodigoApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DioDesafioDeCodigoApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }
